@@ -1,0 +1,12 @@
+name: "Chili Piper"
+description: "Chili Piper is a revenue scheduling platform that routes inbound leads to the right sales rep and offers round-robin meeting booking. It integrates with Salesforce and calendar systems for B2B sales teams."
+source_url: "https://chilipiper.com/"
+category: "Team & Round-Robin Scheduling"
+tags:
+  - "team-and-round-robin"
+  - "paid"
+  - "enterprise"
+  - "lead-routing"
+icon_url: "https://icons.duckduckgo.com/ip3/chilipiper.com.ico"
+markdown: "## Pricing\n\nPaid.\n\n## Links\n\n- Website: <https://chilipiper.com/>\n"
+updated_at: "2026-11-21 01:12"

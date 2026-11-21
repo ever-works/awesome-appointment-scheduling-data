@@ -1,0 +1,11 @@
+name: "Setmore"
+description: "Setmore is a free online appointment scheduling app for small businesses, offering booking websites, calendar sync, and automated reminders. It supports service providers such as salons, tutors, and consultants."
+source_url: "https://setmore.com/"
+category: "Service Booking Systems"
+tags:
+  - "service-booking"
+  - "freemium"
+  - "appointment-reminders"
+icon_url: "https://icons.duckduckgo.com/ip3/setmore.com.ico"
+markdown: "## Pricing\n\nFreemium.\n\n## Links\n\n- Website: <https://setmore.com/>\n"
+updated_at: "2026-11-21 01:12"

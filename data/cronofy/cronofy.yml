@@ -1,0 +1,12 @@
+name: "Cronofy"
+description: "Cronofy provides scheduling APIs and calendar integration for developers building booking and availability features into apps. It supports real-time calendar sync across Google, Microsoft, Apple, and CalDAV."
+source_url: "https://cronofy.com/"
+category: "Scheduling APIs"
+tags:
+  - "scheduling-apis"
+  - "api"
+  - "paid"
+  - "calendar-sync"
+icon_url: "https://icons.duckduckgo.com/ip3/cronofy.com.ico"
+markdown: "## Pricing\n\nPaid.\n\n## Links\n\n- Website: <https://cronofy.com/>\n"
+updated_at: "2026-11-21 01:12"

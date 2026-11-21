@@ -1,0 +1,12 @@
+name: "Calendly"
+description: "Calendly is an appointment scheduling platform that lets users share availability via booking links and automate meeting coordination. It serves individuals and teams looking to reduce back-and-forth email scheduling."
+source_url: "https://calendly.com/"
+category: "Scheduling Links"
+tags:
+  - "scheduling-links"
+  - "freemium"
+  - "api"
+  - "team-scheduling"
+icon_url: "https://icons.duckduckgo.com/ip3/calendly.com.ico"
+markdown: "## Pricing\n\nFreemium.\n\n## Links\n\n- Website: <https://calendly.com/>\n"
+updated_at: "2026-11-21 01:12"

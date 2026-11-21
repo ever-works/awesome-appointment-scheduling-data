@@ -1,0 +1,12 @@
+- id: scheduling-links
+  name: "Scheduling Links"
+- id: service-booking-systems
+  name: "Service Booking Systems"
+- id: open-source-and-self-hosted
+  name: "Open-Source & Self-Hosted"
+- id: team-and-round-robin-scheduling
+  name: "Team & Round-Robin Scheduling"
+- id: ai-calendar-assistants
+  name: "AI Calendar Assistants"
+- id: scheduling-apis
+  name: "Scheduling APIs"

@@ -1,0 +1,11 @@
+name: "Appointy"
+description: "Appointy is an online scheduling platform for service businesses, featuring booking pages, staff management, and online payments. It targets salons, spas, fitness centers, and professional services."
+source_url: "https://appointy.com/"
+category: "Service Booking Systems"
+tags:
+  - "service-booking"
+  - "freemium"
+  - "online-payments"
+icon_url: "https://icons.duckduckgo.com/ip3/appointy.com.ico"
+markdown: "## Pricing\n\nFreemium.\n\n## Links\n\n- Website: <https://appointy.com/>\n"
+updated_at: "2026-11-21 01:12"

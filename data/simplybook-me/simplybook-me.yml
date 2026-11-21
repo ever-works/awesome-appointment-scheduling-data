@@ -1,0 +1,12 @@
+name: "SimplyBook.me"
+description: "SimplyBook.me is an online booking system for service-based businesses with a customizable booking website, client app, and POS integrations. It serves industries like beauty, fitness, and healthcare."
+source_url: "https://simplybook.me/"
+category: "Service Booking Systems"
+tags:
+  - "service-booking"
+  - "freemium"
+  - "client-app"
+  - "pos"
+icon_url: "https://icons.duckduckgo.com/ip3/simplybook.me.ico"
+markdown: "## Pricing\n\nFreemium.\n\n## Links\n\n- Website: <https://simplybook.me/>\n"
+updated_at: "2026-11-21 01:12"

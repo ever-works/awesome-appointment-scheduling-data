@@ -1,0 +1,11 @@
+name: "HubSpot Meetings"
+description: "HubSpot Meetings is a free meeting scheduling tool embedded in HubSpot CRM that lets prospects book time on sales reps' calendars. It syncs with Google and Office 365 and logs meetings to CRM records."
+source_url: "https://hubspot.com/products/meetings"
+category: "Scheduling Links"
+tags:
+  - "scheduling-links"
+  - "freemium"
+  - "crm-integration"
+icon_url: "https://icons.duckduckgo.com/ip3/hubspot.com.ico"
+markdown: "## Pricing\n\nFreemium.\n\n## Links\n\n- Website: <https://hubspot.com/products/meetings>\n"
+updated_at: "2026-11-21 01:12"

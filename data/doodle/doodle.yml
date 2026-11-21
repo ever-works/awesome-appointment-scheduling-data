@@ -1,0 +1,11 @@
+name: "Doodle"
+description: "Doodle provides group polling and booking pages to help teams and individuals find the best meeting time. It is widely used for coordinating events and appointments across multiple participants."
+source_url: "https://doodle.com/"
+category: "Scheduling Links"
+tags:
+  - "scheduling-links"
+  - "freemium"
+  - "group-polling"
+icon_url: "https://icons.duckduckgo.com/ip3/doodle.com.ico"
+markdown: "## Pricing\n\nFreemium.\n\n## Links\n\n- Website: <https://doodle.com/>\n"
+updated_at: "2026-11-21 01:12"

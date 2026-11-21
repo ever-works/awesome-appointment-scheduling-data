@@ -1,0 +1,12 @@
+name: "Nylas Scheduler"
+description: "Nylas Scheduler is an API and embeddable booking solution for adding scheduling functionality to applications. It enables developers to embed calendar availability and booking flows without building calendar infrastructure."
+source_url: "https://nylas.com/scheduler"
+category: "Scheduling APIs"
+tags:
+  - "scheduling-apis"
+  - "api"
+  - "paid"
+  - "embeddable"
+icon_url: "https://icons.duckduckgo.com/ip3/nylas.com.ico"
+markdown: "## Pricing\n\nPaid.\n\n## Links\n\n- Website: <https://nylas.com/scheduler>\n"
+updated_at: "2026-11-21 01:12"

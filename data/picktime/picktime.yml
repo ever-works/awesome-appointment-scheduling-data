@@ -1,0 +1,11 @@
+name: "Picktime"
+description: "Picktime is a free online appointment scheduling software with a customizable booking page, calendar integration, and automated email reminders. It serves small businesses and freelancers across multiple industries."
+source_url: "https://picktime.com/"
+category: "Service Booking Systems"
+tags:
+  - "service-booking"
+  - "freemium"
+  - "appointment-reminders"
+icon_url: "https://icons.duckduckgo.com/ip3/picktime.com.ico"
+markdown: "## Pricing\n\nFreemium.\n\n## Links\n\n- Website: <https://picktime.com/>\n"
+updated_at: "2026-11-21 01:12"

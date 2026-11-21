@@ -1,0 +1,12 @@
+name: "Easy!Appointments"
+description: "Easy!Appointments is a self-hosted, open-source appointment scheduling application for small businesses and service providers. It includes calendar management, service providers, and customer notifications."
+source_url: "https://easyappointments.org/"
+category: "Open-Source & Self-Hosted"
+tags:
+  - "open-source"
+  - "self-hosted"
+  - "service-booking"
+  - "php"
+icon_url: "https://icons.duckduckgo.com/ip3/easyappointments.org.ico"
+markdown: "## Pricing\n\nOpen Source.\n\n## Links\n\n- Website: <https://easyappointments.org/>\n- Repository: <https://github.com/alextselegidis/easyappointments>\n\nLicense: MIT.\n"
+updated_at: "2026-11-21 01:12"

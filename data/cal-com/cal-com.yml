@@ -1,0 +1,13 @@
+name: "Cal.com"
+description: "Cal.com is an open-source scheduling infrastructure offering a hosted booking platform and self-hostable calendar appointment system. It is designed for developers and organizations wanting customizable scheduling links and APIs."
+source_url: "https://cal.com/"
+category: "Open-Source & Self-Hosted"
+tags:
+  - "open-source"
+  - "self-hosted"
+  - "freemium"
+  - "api"
+  - "scheduling-links"
+icon_url: "https://icons.duckduckgo.com/ip3/cal.com.ico"
+markdown: "## Pricing\n\nFreemium.\n\n## Links\n\n- Website: <https://cal.com/>\n- Repository: <https://github.com/calcom/cal.com>\n\nLicense: AGPL-3.0.\n"
+updated_at: "2026-11-21 01:12"

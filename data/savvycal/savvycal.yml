@@ -1,0 +1,11 @@
+name: "SavvyCal"
+description: "SavvyCal lets users overlay calendars to find mutually available times and send personalized scheduling links. It targets professionals who want a more collaborative alternative to one-way booking pages."
+source_url: "https://savvycal.com/"
+category: "Scheduling Links"
+tags:
+  - "scheduling-links"
+  - "freemium"
+  - "calendar-overlay"
+icon_url: "https://icons.duckduckgo.com/ip3/savvycal.com.ico"
+markdown: "## Pricing\n\nFreemium.\n\n## Links\n\n- Website: <https://savvycal.com/>\n"
+updated_at: "2026-11-21 01:12"

@@ -1,0 +1,60 @@
+- id: scheduling-links
+  name: "Scheduling Links"
+- id: freemium
+  name: "Freemium"
+- id: api
+  name: "API"
+- id: team-scheduling
+  name: "Team Scheduling"
+- id: open-source
+  name: "Open Source"
+- id: self-hosted
+  name: "Self-Hosted"
+- id: calendar-overlay
+  name: "Calendar Overlay"
+- id: service-booking
+  name: "Service Booking"
+- id: paid
+  name: "Paid"
+- id: client-self-booking
+  name: "Client Self-Booking"
+- id: payments
+  name: "Payments"
+- id: group-polling
+  name: "Group Polling"
+- id: team-availability
+  name: "Team Availability"
+- id: calendar-sync
+  name: "Calendar Sync"
+- id: appointment-reminders
+  name: "Appointment Reminders"
+- id: client-app
+  name: "Client App"
+- id: pos
+  name: "POS"
+- id: php
+  name: "PHP"
+- id: scheduling-apis
+  name: "Scheduling APIs"
+- id: embeddable
+  name: "Embeddable"
+- id: lead-routing
+  name: "Lead Routing"
+- id: sms-reminders
+  name: "SMS Reminders"
+- id: online-payments
+  name: "Online Payments"
+- id: tours-and-classes
+  name: "Tours and Classes"
+- id: crm-integration
+  name: "CRM Integration"
+- id: team-and-round-robin
+  name: "Team & Round-Robin"
+- id: enterprise
+  name: "Enterprise"
+- id: ai-calendar-assistants
+  name: "AI Calendar Assistants"
+- id: ai-powered
+  name: "AI-Powered"
+- id: google-calendar
+  name: "Google Calendar"

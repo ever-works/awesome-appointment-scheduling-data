@@ -1,0 +1,11 @@
+name: "YouCanBook.me"
+description: "YouCanBook.me is an online scheduling tool that integrates with Google and Microsoft calendars to create customizable booking pages. It is used by individuals and teams to automate appointment confirmation and reminders."
+source_url: "https://youcanbook.me/"
+category: "Scheduling Links"
+tags:
+  - "scheduling-links"
+  - "freemium"
+  - "calendar-sync"
+icon_url: "https://icons.duckduckgo.com/ip3/youcanbook.me.ico"
+markdown: "## Pricing\n\nFreemium.\n\n## Links\n\n- Website: <https://youcanbook.me/>\n"
+updated_at: "2026-11-21 01:12"
